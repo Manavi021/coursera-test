@@ -1,0 +1,53 @@
+
+#menu{
+  text-align: center;
+  margin: 20px;
+
+  font-weight: bold;
+}
+#heading{
+  font-size: 1.3em;
+}
+#list{
+  text-decoration: none;
+  background-color: grey;
+  margin: 10px;
+}
+#textt{
+  margin: 20px;
+  margin-top: 10px;
+}
+#chnge{
+  list-style-type: none;
+   text-align: center;
+}
+.text-center{
+  font-size: 30px;
+}
+#nav-list
+{
+  color: black;
+  text-align: center;
+
+}
+.listn{
+    border: 1px solid black;
+}
+h1{
+  margin: 0px;
+  color: black;
+}
+.navbar-header{
+  background-color: grey;
+  border: 2px solid black;
+  width: 100%;
+  margin: 0px;
+}
+.navbar-toggle{
+  margin: 20px ;
+  background-color: black;
+}
+.container{
+  margin: 10px;
+  width: 100%;
+}
